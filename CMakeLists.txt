@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(krushals_min_cost_spanning_tree_function_cpp)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(krushals_min_cost_spanning_tree_function_cpp main.cpp)
